@@ -471,9 +471,9 @@
 #elif MB(ULTRATRONICS_PRO)
   #include "sam/pins_ULTRATRONICS_PRO.h"            // SAM3X8E                              env:DUE
 #elif MB(ARCHIM1)
-  #include "sam/pins_ARCHIM1.h"                     // SAM3X8E                              env:DUE_archim env:DUE_archim_debug
+  #include "sam/pins_ARCHIM1.h"                     // SAM3X8E                              env:DUE_archim
 #elif MB(ARCHIM2)
-  #include "sam/pins_ARCHIM2.h"                     // SAM3X8E                              env:DUE_archim env:DUE_archim_debug
+  #include "sam/pins_ARCHIM2.h"                     // SAM3X8E                              env:DUE_archim
 #elif MB(ALLIGATOR)
   #include "sam/pins_ALLIGATOR_R2.h"                // SAM3X8E                              env:DUE
 #elif MB(CNCONTROLS_15D)
