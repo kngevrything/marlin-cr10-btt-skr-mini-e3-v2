@@ -39,11 +39,9 @@ This project demonstrates practical firmware configuration, hardware/software de
 
 This firmware configuration is specific to my printer hardware and wiring. Do not flash it to another printer without reviewing the configuration and validating compatibility.
 
-## Attribution
+## Attribution and License
 
-This repo is based on the open-source Marlin firmware project.
-
-Marlin is maintained by the Marlin Firmware community:
+This repo is based on the open-source Marlin firmware project, maintained by the Marlin Firmware community:
 https://marlinfw.org
 
-The original Marlin source and licensing terms remain the property of their respective authors and contributors.
+Because this repo is derived from Marlin, it remains licensed under the GNU General Public License v3.0. The original Marlin source and licensing terms remain the property of their respective authors and contributors.
